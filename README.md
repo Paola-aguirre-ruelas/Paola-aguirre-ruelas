@@ -51,7 +51,7 @@ Concha, C., *et al.* (2019). [Interplay between Developmental Flexibility and De
 
 **Professional Certifications**
 - **Machine Learning Specialization** — DeepLearning.AI / Coursera
-- **Google Data Analytics Professional Certificate** — Google / Coursera (2026)
+- **Google Data Analytics Professional Certificate** — Google
 
 **Additional Academic Training**
 - Human and Medical Genetics — University of São Paulo
