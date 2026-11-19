@@ -1,6 +1,6 @@
 # Paola Aguirre Ruelas
 
-**Biomedical Scientist · Computational Biology · Biomedical Machine Learning**  
+**Biomedical Scientist · Computational Biology**  
 *Sleep research · Individual variability · Reproducible science*
 
 [LinkedIn](https://www.linkedin.com/in/paola-aguirre-ruelas/) · [Selected publication](https://doi.org/10.1016/j.cub.2019.10.010)
@@ -9,9 +9,9 @@ I'm a biomedical researcher interested in understanding human biological variabi
 
 My path into computational biology began at the bench, working across molecular genetics, genome editing, and protein biochemistry. That experience shaped how I approach data: not as abstract inputs, but as measurements influenced by biological complexity, experimental decisions, and sources of variability.
 
-Today, I bring that perspective to computational research, exploring how machine learning and statistical methods can help us represent biological information and understand differences between individuals. I'm particularly interested in sleep research, longitudinal physiological data, and personalized health.
+Today, I bring that perspective to computational research, combining my biomedical background with a growing foundation in machine learning and statistical methods. I'm particularly interested in sleep research, longitudinal physiological data, and personalized health.
 
-My current research focuses on reproducibility, individual prediction stability, and generalization in biomedical machine learning. Beyond predictive performance, I'm interested in understanding the assumptions behind our methods, the conditions under which models succeed or fail, and what their results actually allow us to conclude.
+My current projects explore reproducibility, individual prediction stability, and generalization in biomedical machine learning. Beyond predictive performance, I'm interested in understanding the assumptions behind our methods, the conditions under which models succeed or fail, and what their results actually allow us to conclude.
 
 ## Selected research projects
 
@@ -57,11 +57,3 @@ Concha, C., *et al.* (2019). [Interplay between Developmental Flexibility and De
 - Human and Medical Genetics — University of São Paulo
 - Precision Medicine — University of Geneva
 - Genomic Technologies — Johns Hopkins University
-
-## Current direction
-
-## Current direction
-
-I am particularly interested in how computational methods capture meaningful information from complex biological data, why models succeed or fail across different populations, and what makes individual-level predictions reliable.
-
-Beyond applying existing methods, I want to understand their assumptions, investigate their limitations, and contribute to developing better approaches to biomedical research.
