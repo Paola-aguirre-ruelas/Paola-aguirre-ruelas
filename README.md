@@ -5,11 +5,13 @@
 
 [LinkedIn](https://www.linkedin.com/in/paola-aguirre-ruelas/) · [Selected publication](https://doi.org/10.1016/j.cub.2019.10.010)
 
-I'm a biomedical researcher with a strong interest in understanding human biological variability and how computational methods can help us extract meaningful information from complex biomedical data.
+I'm a biomedical researcher interested in understanding human biological variability, how we can extract meaningful information from complex biomedical data, and what makes scientific conclusions reliable.
 
-I'm particularly interested in sleep research, personalized health, and the potential of machine learning to uncover biological patterns that are difficult to capture through traditional approaches.
+My path into computational biology began at the bench, working across molecular genetics, genome editing, and protein biochemistry. That experience shaped how I approach data: not as abstract inputs, but as measurements influenced by biological complexity, experimental decisions, and sources of variability.
 
-My current research explores the reliability, reproducibility, and generalizability of biomedical predictions, with a focus on understanding not only when models work, but also when and why they fail.
+Today, I bring that perspective to computational research, exploring how machine learning and statistical methods can help us represent biological information and understand differences between individuals. I'm particularly interested in sleep research, longitudinal physiological data, and personalized health.
+
+My current research focuses on reproducibility, individual prediction stability, and generalization in biomedical machine learning. Beyond predictive performance, I'm interested in understanding the assumptions behind our methods, the conditions under which models succeed or fail, and what their results actually allow us to conclude.
 
 ## Selected research projects
 
@@ -41,8 +43,6 @@ Concha, C., *et al.* (2019). [Interplay between Developmental Flexibility and De
 **Evidence before conclusions.** Share methods, code, provenance, verification status, and the limits of what results establish.
 
 ## Background & Education
-
-My background combines experimental biology, genetics, and bioinformatics, with research experience spanning molecular biology, genome editing, microbial genomics, and computational biology.
 
 **Academic Education**
 - **MSc in Biomedicine** — University of Alicante, Spain (2022)
