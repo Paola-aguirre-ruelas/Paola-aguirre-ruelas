@@ -1,34 +1,21 @@
 # Paola Aguirre Ruelas
 
-**Biomedical Scientist · Computational Biology · Biomedical Machine Learning**  
-*Sleep research · Individual variability · Reproducible science*
+**Computational Biology · Biomedical Machine Learning · Reproducible Research**
 
-[LinkedIn](https://www.linkedin.com/in/paola-aguirre-ruelas/) · [Selected publication](https://doi.org/10.1016/j.cub.2019.10.010)
+I'm a biomedical researcher with a strong interest in understanding human biological variability and how computational methods can help us extract meaningful information from complex biomedical data.
 
-I have a BSc in Genetics and Biotechnology and an MSc in Biomedicine, with experience in bioinformatics research. My work explores how biomedical data can support reliable scientific conclusions—and where aggregate model performance fails to capture uncertainty or variability at the individual level.
+I'm particularly interested in sleep research, personalized health, and the potential of machine learning to uncover biological patterns that are difficult to capture through traditional approaches.
 
-I am particularly interested in **sleep research, longitudinal physiological data, subject-level generalization, biomarker discovery, and personalized prediction**. I am building a portfolio of independent, reproducible computational studies as I pursue PhD research opportunities.
+My current research explores the reliability, reproducibility, and generalizability of biomedical predictions, with a focus on understanding not only when models work, but also when and why they fail.
 
 ## Selected research projects
 
 | Project | Research focus |
 | --- | --- |
-| [**Sleep-stage reliability**](https://github.com/koalaresearch/sleep-stage-reliability) | Evaluates subject-level generalization and between-recording variability in EEG sleep staging using Sleep-EDF and leave-one-subject-out validation. |
-| [**Genes or Donors?**](https://github.com/koalaresearch/Genes-or-Donors) | Explores whether individual-identity supervision changes compact gene-panel selection and performance on unseen donors in single-cell transcriptomics. |
-| [**Individual prediction stability**](https://github.com/koalaresearch/WDBC-prediction-stability) | Examines variation in individual out-of-sample predicted probabilities under repeated model development, beyond aggregate AUC and Brier score. |
-| [**HalC8 prioritization pipeline**](https://github.com/koalaresearch/Halc8-prioritization-pipeline) | Provides a reproducible protein-domain scoring workflow and its associated custom profile HMM. |
-
-## Selected publication
-
-Concha, C., *et al.* (including Aguirre, P.). (2019). [Interplay between Developmental Flexibility and Determinism in the Evolution of Mimetic *Heliconius* Wing Patterns](https://doi.org/10.1016/j.cub.2019.10.010). *Current Biology*.
-
-## Research methods & tools
-
-| Area | Methods and tools |
-| --- | --- |
-| Computational research | Python, R, Bash, Linux, Git, documented reproducible workflows |
-| Biomedical data | Single-cell transcriptomics, EEG sleep data, biological sequence analysis |
-| Evaluation | Subject- and donor-held-out validation, resampling, statistical analysis, quality control |
+| [**Sleep-stage reliability**](https://github.com/Paola-aguirre-ruelas/sleep-stage-reliability) | Evaluates subject-level generalization and between-recording variability in EEG sleep staging using Sleep-EDF and leave-one-subject-out validation. |
+| [**Genes or Donors?**](https://github.com/Paola-aguirre-ruelas/Genes-or-Donors) | Explores whether individual-identity supervision changes compact gene-panel selection and performance on unseen donors in single-cell transcriptomics. |
+| [**Individual prediction stability**](https://github.com/Paola-aguirre-ruelas/WDBC-prediction-stability) | Examines variation in individual out-of-sample predicted probabilities under repeated model development, beyond aggregate AUC and Brier score. |
+| [**HalC8 prioritization pipeline**](https://github.com/Paola-aguirre-ruelas/Halc8-prioritization-pipeline) | Provides a reproducible protein-domain scoring workflow and its associated custom profile HMM. |
 
 ## Research principles
 
