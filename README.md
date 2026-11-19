@@ -29,6 +29,3 @@ My current research explores the reliability, reproducibility, and generalizabil
 
 I am developing stronger methodological foundations in machine learning for biomedical research, especially **longitudinal inference, robust representation learning, and the reliability of individual-level predictions**. A central motivation is understanding what it takes for a model that works on a dataset to provide dependable information about a new person.
 
----
-
-*These repositories include exploratory and methodological research; they are not clinical decision-support tools. See each project's README for its validation scope and limitations.*
