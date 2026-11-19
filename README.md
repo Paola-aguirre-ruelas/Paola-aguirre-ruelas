@@ -60,8 +60,8 @@ Concha, C., *et al.* (2019). [Interplay between Developmental Flexibility and De
 
 ## Current direction
 
-I am developing stronger methodological foundations in machine learning for biomedical research, especially **longitudinal inference, robust representation learning, and the reliability of individual-level predictions**. A central motivation is understanding what it takes for a model that works on a dataset to provide dependable information about a new person.
+## Current direction
 
----
+I am particularly interested in how computational methods capture meaningful information from complex biological data, why models succeed or fail across different populations, and what makes individual-level predictions reliable.
 
-*These repositories include exploratory and methodological research; they are not clinical decision-support tools. See each project's README for its validation scope and limitations.*
+Beyond applying existing methods, I want to understand their assumptions, investigate their limitations, and contribute to developing better approaches to biomedical research.
