@@ -22,7 +22,7 @@ My current research explores the reliability, reproducibility, and generalizabil
 
 ## Selected publication
 
-Concha, C., *et al.* (including Aguirre, P.). (2019). [Interplay between Developmental Flexibility and Determinism in the Evolution of Mimetic *Heliconius* Wing Patterns](https://doi.org/10.1016/j.cub.2019.10.010). *Current Biology*.
+Concha, C., *et al.* (2019). [Interplay between Developmental Flexibility and Determinism in the Evolution of Mimetic *Heliconius* Wing Patterns](https://doi.org/10.1016/j.cub.2019.10.010). *Current Biology*.
 
 ## Research methods & tools
 
