@@ -40,6 +40,24 @@ Concha, C., *et al.* (2019). [Interplay between Developmental Flexibility and De
 
 **Evidence before conclusions.** Share methods, code, provenance, verification status, and the limits of what results establish.
 
+## Background & Education
+
+My background combines experimental biology, genetics, and bioinformatics, with research experience spanning molecular biology, genome editing, microbial genomics, and computational biology.
+
+**Academic Education**
+- **MSc in Biomedicine** — University of Alicante, Spain (2022)
+- **Professional Qualification in Genetics and Biotechnology** — Universidad Nacional Mayor de San Marcos, Peru (2019)
+- **BSc in Biology** — Universidad Nacional Mayor de San Marcos, Peru (2017)
+
+**Professional Certifications**
+- **Machine Learning Specialization** — DeepLearning.AI / Coursera
+- **Google Data Analytics Professional Certificate** — Google / Coursera (2026)
+
+**Additional Academic Training**
+- Human and Medical Genetics — University of São Paulo
+- Precision Medicine — University of Geneva
+- Genomic Technologies — Johns Hopkins University
+
 ## Current direction
 
 I am developing stronger methodological foundations in machine learning for biomedical research, especially **longitudinal inference, robust representation learning, and the reliability of individual-level predictions**. A central motivation is understanding what it takes for a model that works on a dataset to provide dependable information about a new person.
