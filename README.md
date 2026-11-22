@@ -45,9 +45,9 @@ Concha, C., *et al.* (2019). [Interplay between Developmental Flexibility and De
 ## Background & Education
 
 **Academic Education**
-- **MSc in Biomedicine** — University of Alicante, Spain (2022)
-- **Professional Qualification in Genetics and Biotechnology** — Universidad Nacional Mayor de San Marcos, Peru (2019)
-- **BSc in Biology** — Universidad Nacional Mayor de San Marcos, Peru (2017)
+- **MSc in Biomedicine** — University of Alicante, Spain
+- **Professional Qualification in Genetics and Biotechnology** — Universidad Nacional Mayor de San Marcos, Peru
+- **BSc in Biology** — Universidad Nacional Mayor de San Marcos, Peru
 
 **Professional Certifications**
 - **Machine Learning Specialization** — DeepLearning.AI / Coursera
