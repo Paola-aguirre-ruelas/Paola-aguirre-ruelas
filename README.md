@@ -17,10 +17,10 @@ My current projects explore reproducibility, individual prediction stability, an
 
 | Project | Research focus |
 | --- | --- |
-| [**HalC8 prioritization pipeline**](https://github.com/koalaresearch/Halc8-prioritization-pipeline) | Provides a reproducible protein-domain scoring workflow and its associated custom profile HMM. |
-| [**Genes or Donors?**](https://github.com/koalaresearch/Genes-or-Donors) | Explores whether individual-identity supervision changes compact gene-panel selection and performance on unseen donors in single-cell transcriptomics. |
-| [**Sleep-stage reliability**](https://github.com/koalaresearch/sleep-stage-reliability) | Evaluates subject-level generalization and between-recording variability in EEG sleep staging using Sleep-EDF and leave-one-subject-out validation. |
-| [**Individual prediction stability**](https://github.com/koalaresearch/WDBC-prediction-stability) | Examines variation in individual out-of-sample predicted probabilities under repeated model development, beyond aggregate AUC and Brier score. |
+| [**HalC8 prioritization pipeline**](https://github.com/Paola-aguirre-ruelas/Halc8-prioritization-pipeline) | Provides a reproducible protein-domain scoring workflow and its associated custom profile HMM. |
+| [**Genes or Donors?**](https://github.com/Paola-aguirre-ruelas/Genes-or-Donors) | Explores whether individual-identity supervision changes compact gene-panel selection and performance on unseen donors in single-cell transcriptomics. |
+| [**Sleep-stage reliability**](https://github.com/Paola-aguirre-ruelas/sleep-stage-reliability) | Evaluates subject-level generalization and between-recording variability in EEG sleep staging using Sleep-EDF and leave-one-subject-out validation. |
+| [**Individual prediction stability**](https://github.com/Paola-aguirre-ruelas/WDBC-prediction-stability) | Examines variation in individual out-of-sample predicted probabilities under repeated model development, beyond aggregate AUC and Brier score. |
 
 
 ## Selected publication
