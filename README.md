@@ -1,7 +1,7 @@
 # Paola Aguirre Ruelas
 
-**Biomedical Scientist · Computational Biology**  
-*Sleep research · Individual variability · Reproducible science*
+**Biomedical Researcher · Experimental & Computational Biology**  
+*Biological variability · Data quality · Reproducible research*
 
 [LinkedIn](https://www.linkedin.com/in/paola-aguirre-ruelas/) · [Selected publication](https://doi.org/10.1016/j.cub.2019.10.010)
 
@@ -9,7 +9,7 @@ I'm a biomedical researcher interested in understanding human biological variabi
 
 My path into computational biology began at the bench, working across molecular genetics, genome editing, and protein biochemistry. That experience shaped how I approach data: not as abstract inputs, but as measurements influenced by biological complexity, experimental decisions, and sources of variability.
 
-Today, I bring that perspective to computational research, combining my biomedical background with a growing foundation in machine learning and statistical methods. I'm particularly interested in sleep research, longitudinal physiological data, and personalized health.
+Today, I use Python, bioinformatics and statistical methods to investigate biological questions, develop reproducible workflows and critically evaluate results. My research interests include longitudinal physiology, sleep and personalized health.
 
 My current projects explore reproducibility, individual prediction stability, and generalization in biomedical machine learning. Beyond predictive performance, I'm interested in understanding the assumptions behind our methods, the conditions under which models succeed or fail, and what their results actually allow us to conclude.
 
